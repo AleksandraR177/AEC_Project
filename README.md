@@ -1,12 +1,12 @@
-Acoustics Echo Cancelation 
+### Acoustics Echo Cancellation 
 Evaluation of AEC alghoritms 
 
-Branch naming pattern
+### Branch naming pattern
 dev/<issue number>-<short description>
 
-Authors
-Aleksandra Pietrek
+### Authors
+_Aleksandra Pietrek_
 
-Aleksandra Rogowiec
+_Aleksandra Rogowiec_
 
-Katarzyna Radomska
+_Katarzyna Radomska_
