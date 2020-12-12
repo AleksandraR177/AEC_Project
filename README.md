@@ -6,7 +6,5 @@ dev/\<issue number\>-\<short description\>
 
 ### Authors
 _Aleksandra Pietrek_
-
 _Aleksandra Rogowiec_
-
 _Katarzyna Radomska_
