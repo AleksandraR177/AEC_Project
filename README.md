@@ -2,7 +2,7 @@
 Evaluation of AEC alghoritms 
 
 ### Branch naming pattern
-dev/<issue number>-<short description>
+dev/\<issue number\>-\<short description\>
 
 ### Authors
 _Aleksandra Pietrek_
