@@ -14,3 +14,5 @@ class SoundBase:
 
     def length(self):
         return self.samples.size
+
+# here is an example code - to be changed
