@@ -29,7 +29,6 @@ def normalise():
     return normalised
 
 
-
 def resampling():
 
     resampled = 0
@@ -42,5 +41,4 @@ def convolution():
     convolute = 0
 
     return convolute
-
 
